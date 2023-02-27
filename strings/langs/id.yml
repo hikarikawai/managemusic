@@ -74,6 +74,7 @@ admin_34 : "Gagal mencari aliran saat ini."
 # Bot 
 
 # Start
+start_0 : "Halo Nama saya {0}. Terimakasih sudah Memulai saya."
 start_1 : "Terima kasih telah menerima saya di {0}.\n{1} Saya Masih Berfungsi.\n\nUntuk bantuan atau bantuan apa pun, periksa Group dan Channel Support kami."
 start_2 : "Halo, Nama saya {0}.\n\nSaya bot streaming telegram dengan beberapa fitur berguna. Platform pendukung seperti Youtube, Spotify, Resso, AppleMusic , Soundcloud dll.\n\nJangan ragu untuk menambahkan saya kegroupmu."
 start_3 : "Selamat datang di {0}\n\nSaya tidak memerlukan **izin admin** untuk bekerja ( sampai diminta ).\n\nNama Pengguna Asisten:- @{1}\nID Asisten:- {2} "
