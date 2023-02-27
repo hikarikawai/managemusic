@@ -12,8 +12,8 @@
 
 # Bot Commands
 PING_COMMAND : ["mping"]
-START_COMMAND : ["mmmmstart"]
-HELP_COMMAND : ["mmmmhelp"]
+START_COMMAND : ["start"]
+HELP_COMMAND : ["mhelp"]
 SETTINGS_COMMAND : ["msettings", "msetting"]
 RELOAD_COMMAND : ["admincache", "mreload"]
 GSTATS_COMMAND : ["mgstats"]
@@ -102,8 +102,8 @@ BLOCKED_COMMAND : ["mblockedusers"]
 SPEEDTEST_COMMAND : ["mspeedtest"]
 
 #Voice chat commands
-ACTIVEVC_COMMAND : ["/am"]
-ACTIVEVIDEO_COMMAND : ["/av"]
+ACTIVEVC_COMMAND : ["am"]
+ACTIVEVIDEO_COMMAND : ["av"]
 
 #Gban Commands
 GBAN_COMMAND : ["mgban"]
