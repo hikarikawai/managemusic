@@ -199,15 +199,15 @@ async def start_comm(client, message: Message, _):
                     photo=config.START_IMG_URL,
                     caption=_["start_0"].format(
                         config.MUSIC_BOT_NAME
-                    )
+                    ),
                 )
             except:
                 await message.reply_text(
-                    _["start_0"].format(config.MUSIC_BOT_NAME)
+                    _["start_0"].format(config.MUSIC_BOT_NAME),
                 )
         else:
             await message.reply_text(
-                _["start_0"].format(config.MUSIC_BOT_NAME)
+                _["start_0"].format(config.MUSIC_BOT_NAME),
             )
         if await is_on_off(config.LOG):
             sender_id = message.from_user.id
@@ -215,7 +215,7 @@ async def start_comm(client, message: Message, _):
             return await app.send_message(
                 config.LOG_GROUP_ID,
                 f"{message.from_user.mention} has just started Bot.\n\n**USER ID:** {sender_id}\n**USER NAME:** {sender_name}",
-            )
+            ),
 
 
 @app.on_message(
