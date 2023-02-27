@@ -76,6 +76,7 @@ admin_34 : "Gagal nemokake aliran saiki."
 # Bot 
 
 # Start
+start_0 : "Halo Nama saya {0}. Terimakasih sudah Memulai saya."
 start_1 : "Matur nuwun wis nampa aku ing {0}.\n{1} Aku Isih Kerja.\n\nKanggo bantuan utawa pitulungan, priksa Grup Dhukungan lan Saluran."
 start_2 : "Halo, jenengku {0}.\n\nAku bot streaming telegram kanthi sawetara fitur sing migunani. Dhukungan platform kaya Youtube, Spotify, Resso, AppleMusic, Soundcloud lsp.\n\nAja nambahi aku menyang kelompokmu."
 start_3 : "Sugeng rawuh ing {0}\n\nAku ora mbutuhake **idin admin** kanggo bisa (nganti dijaluk).\n\nJeneng Panganggo Asisten:- @{1}\nID Asisten:- {2} "
