@@ -75,6 +75,7 @@ admin_34 : "Gagal mencari aliran saat ini."
 # Bot 
 
 # Start
+start_0 : "Halo Nama saya {0}. Terimakasih sudah Memulai saya."
 start_1 : "Makasih udah make gua di {0}.\n{1} Kalo patah patah terima aja jink lu gratisan, gausah protes!.\n\nbuat nyari bantuan apa aja, periksa Group sama channel ya jing!."
 start_2 : "Halo pengguna gratisan, Nama Gua {0}.\n\nGua bot streaming telegram dengan fitur berguna. Gua bisa play dari Youtube, Spotify, Resso, AppleMusic , Soundcloud .\n\nJangan ngeluh ya anjing kalo patah patah, Lo cuma gratisan! Gasuka? Pc gua @JustRex , Yang ngeluh botnya patah patah, bikin bot sendiri aja memek!"
 start_3 : "Welcome jink {0}\n\nGua gabutuh **izin admin** Buat kerja ( sampe diminta ya jink ).\n\nNama Asisstant:- @{1}\nID Asisten:- {2} "
